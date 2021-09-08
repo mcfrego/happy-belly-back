@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Melon",
+    "size": "big",
+    "eatenStatus": false
+  },
+  {
+    "name": "Apple",
+    "size": "small",
+    "eatenStatus": false
+  },
+  {
+    "name": "Banana",
+    "size": "medium",
+    "eatenStatus": false
+  },
+  {
+    "name": "Melon",
+    "size": "big",
+    "eatenStatus": false
+  },
+  {
+    "name": "Watermelon",
+    "size": "big",
+    "eatenStatus": false
+  },
+  {
+    "name": "Pear",
+    "size": "medium",
+    "eatenStatus": false
+  },
+  {
+    "name": "Blueberry",
+    "size": "small",
+    "eatenStatus": false
+  },
+  {
+    "name": "Melon",
+    "size": "big",
+    "eatenStatus": false
+  }
+]
