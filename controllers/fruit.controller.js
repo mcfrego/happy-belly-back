@@ -4,7 +4,11 @@ function getAllAvailableFruits(req, res) {
   fruitModel
     .find({ eatenStatus: false })
     .then((fruits) => {
-      const response = fruits.map(({ name, size }) => ({ name, size }));
+      const response = fruits.map(({ name, size, _id }) => ({
+        name,
+        size,
+        id: _id,
+      }));
       res.json(response);
     })
     .catch((err) => {
